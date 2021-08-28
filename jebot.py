@@ -28,9 +28,9 @@ Jebot = Client(
 async def start(client, message):
    await Jebot.send_message(
            chat_id=message.chat.id,
-           text="""<b>Hey There, I'm Assistant of Jaguar Eaglets Group
+           text="""<b>Merhaba Ben Grup Asistan Botuyum
 
-Made by @Infinity_BOTs 🇱🇰</b>""")
+Made by @Smailesi 🇱🇰</b>""")
 
 @Jebot.on_message(filters.new_chat_members)
 async def welcome(_, message: Message):
@@ -54,11 +54,11 @@ async def welcome(_, message: Message):
         ),
         quote=True
     )
-    await message.reply(f"""<b>✨ Hi {', '.join(new_members)}, welcome to Infinity JE group chat!
+    await message.reply(f"""<b>✨ Hi {', '.join(new_members)}, GRUP SAHİBİNE BİAD EDİYORUM!
 
 To have a good stay here, use polite words and respect other members
 
-Join with our official channel @InfJE and Telegram bots channel @Infinity_BOTs</b>""")
+Join with our official channel @kizilsancakEdit and Telegram bots channel @cenesiz_bot</b>""")
     await kick_restricted_after_delay(300, button_message)
 
 
@@ -116,7 +116,7 @@ async def _ban_restricted_user_until_date(group_chat,
 print(
     """
 Bot Started!
-Join @Infinity_BOTs
+Join @Smailesi
 """
 )
 
