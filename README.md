@@ -10,7 +10,7 @@ If you want to make bot like this first fork the repo and edit values as you wis
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/jaguar-assistant-bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/mozhol)
 
 ### Credits:
 
@@ -19,4 +19,4 @@ If you want to make bot like this first fork the repo and edit values as you wis
 [Infinity BOTs](https://t.me/Infinity_BOTs)</b>
 ### Developer:
 
-<b>[@ImJanindu](https://t.me/ImJanindu)</b>
+<b>[@kizilsancaksahibi](https://t.me/kizilsancaksahibi)</b>
